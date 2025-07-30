@@ -7,19 +7,19 @@
 </div>
 
   <h2 align="center">About Me</h2>
-  <p align="center">I'm a passionate Computer Science Engineering (CSE) student with a deep interest in <strong>frontend development</strong>, <strong>UI/UX design</strong>, and building meaningful tech solutions. <br><br>
-Currently exploring the world of <strong>Data Structures & Algorithms (DSA)</strong> with C++, and working on improving my <strong>development</strong> and <strong>problem-solving</strong> skills.<br><br>
-I've actively participated in <strong>hackathons</strong> and love bringing ideas to life through clean code and thoughtful design. <br>
-Always curious, always learning. 🚀</p>
+<p align="center">
+  I'm a passionate Computer Science Engineering (CSE) student with a deep interest in <strong>frontend development</strong>, <strong>UI/UX design</strong>, and building meaningful tech solutions.<br>
+  Currently exploring the world of <strong>Data Structures & Algorithms (DSA)</strong> with C++, and working on improving my <strong>development</strong> and <strong>problem-solving</strong> skills.<br>
+  I've actively participated in <strong>hackathons</strong> and love bringing ideas to life through clean code and thoughtful design.<br>
+  Always curious, always learning. 🚀
 </p>
-
 
 <img align="right" alt="Coding" min-width="300px" max-width="200px" width="340px" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
 
 - 🎓 I'm a 3rd Year **CS** Student.
 - 🧑🏿‍💻 **Open Source Contributor**
 - 🌱 I’m currently learning **Js**
-- 👀 Interested in **Full-stack Development**.
+- 👀 Interested in **Full-stack Development** and **User Interface Design**.
 - 💡 Currently focused on **DSA** and **Development**.
 - 📚 I’ve always been passionate about technology and coding.
 
@@ -44,7 +44,7 @@ Always curious, always learning. 🚀</p>
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=powershell,vscode,pycharm,git,github" />
+    <img src="https://skillicons.dev/icons?i=vscode,pycharm,git,github,figma" />
   </a>
 </p>
 
