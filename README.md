@@ -44,7 +44,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,pycharm,git,github,figma" />
+    <img src="https://skillicons.dev/icons?i=vscode,git,github" />
   </a>
 </p>
 
