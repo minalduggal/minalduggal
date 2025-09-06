@@ -53,7 +53,12 @@
 ## Certification Badges 🪶
 <div style='display:flex; align-items:center; gap: 10;' align='left'>
 <a href="https://badgr.com/public/assertions/f4Biml4ARNWlK7Jl92GkSA?identity__email=minalduggal%40gmail.com" target="_blank">
-  <img src="https://github.com/minalduggal/minalduggal-minalduggal/blob/main/Postman%20-%20Postman%20API%20Fundamentals%20Student%20Expert%20-%202025-01-26%20(1).png?raw=true width="120px" height="120px" alt="Postman Badge"/>
+  <img src="https://github.com/minalduggal/minalduggal-minalduggal/blob/main/Postman%20-%20Postman%20API%20Fundamentals%20Student%20Expert%20-%202025-01-26%20(1).png?raw=true width="120px" height="120px"          
+    alt="Postman Badge"/>
+</a>
+<a href="https://leetcode.com/minal_duggal/" target="_blank">
+  <img src="https://github.com/minalduggal/minalduggal/blob/main/leetcode.gif?raw=true width="120px" height="120px"
+    alt="LeetCode Progress"/>
 </a>
 </div>
   
