@@ -64,8 +64,8 @@
   
 <h2 align="left">GitHub Stats</h2>
 <div align="left">
-  <img src="https://github-readme-stats-gw7u-9e00b9fgd-minals-projects-ba82375f.vercel.app/api?username=minalduggal&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats-gw7u-9e00b9fgd-minals-projects-ba82375f.vercel.app/api/top-langs/?username=minalduggal&layout=compact&theme=radical&hide_border=true&langs_count=8" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=minalduggal&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minalduggal&layout=compact&theme=radical&hide_border=true&langs_count=8&cache_seconds=86400" height="150" />
 </div>
 
 
