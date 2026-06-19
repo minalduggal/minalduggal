@@ -8,7 +8,7 @@
 
   <h2 align="center">About Me</h2>
 <p align="center">
-  I'm a passionate Computer Science Engineering (CSE) student with a deep interest in <strong>MAachine Learning</strong>, <strong>AI</strong>, and building meaningful tech solutions.<br>
+  I'm a passionate Computer Science Engineering (CSE) student with a deep interest in <strong>Machine Learning</strong>, <strong>AI</strong>, and building meaningful tech solutions.<br>
   Currently exploring the world of <strong>Data Structures & Algorithms (DSA)</strong> with C++, and working on improving my <strong>development</strong> and <strong>problem-solving</strong> skills.<br>
   I've actively participated in <strong>hackathons</strong> and love bringing ideas to life through clean code and thoughtful design.<br>
   Always curious, always learning. 🚀
